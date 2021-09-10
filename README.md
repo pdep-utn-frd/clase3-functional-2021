@@ -1,7 +1,6 @@
-# ejercicio-alumno
+# Paradigma Funcional - Tercer Clase
 
-## Integrantes
+## Temas
 
-- integrante1 (usuario github)
-- integrante2 (usuario github)
-...
+- Recursividad
+- Ejercicio: [Pollos Ninjas](https://docs.google.com/document/d/1jikh4Y-Bl_2CRSy6ROV6P9RJlZva-TJBJ3iHSVXrNus)
